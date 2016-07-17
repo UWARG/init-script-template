@@ -10,7 +10,7 @@
 ### END INIT INFO
 
 dir="/home/pi/data-relay-station"
-cmd="python data-relay.py"
+cmd="python data_relay.py"
 user="root"
 
 name=`basename $0`
